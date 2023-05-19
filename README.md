@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💙, I'm Silvia Atika Anggrayni</h1>
+<h1 align="center">Hi 💙, I'm Silvia Atika A</h1>
 <h3 align="center">Fresh Graduate majoring in Informatics who are learning many things</h3>
 
 
